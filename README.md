@@ -1,12 +1,17 @@
-<h1 align="center"> Hi 👋, I'm Prabash Sandakalum </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Prabash+Sandakalum;Welcome+to+my+GitHub+Profile🔥">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Web+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things">
+  <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50px">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Web+Developer;Mobile+Application+Development;AI+Technologies">
 </p>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">  About Me </h2>
 
 - 🎓 BSc (Hons) Computer Science Undergraduate  
 - 💻 Interested in Web Development & Software Engineering  
@@ -15,7 +20,7 @@
 
 ---
 
-## 🧠 Skills & Tools
+<h2 align="center">  Skills & Tools </h2>
 
 <p align="center">
 
@@ -25,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">  GitHub Analytics </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabash0929&show_icons=true&theme=radical&hide_border=true"/>
@@ -38,7 +43,7 @@
 
 ---
 
-## 📈 Contribution Graph
+<h2 align="center">  Contribution Graph </h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabash0929&theme=react-dark&hide_border=true"/>
@@ -46,19 +51,7 @@
 
 ---
 
-## 📂 Projects
-
-### 🎓 Student Management System
-- C# + SQL Server  
-- Student registration & data management  
-
-### 🌐 Portfolio Website
-- HTML, CSS, JavaScript  
-- Personal projects showcase  
-
----
-
-## 🌐 Connect With Me
+<h2 align="center">  Connect With Me </h2>
 
 <p align="center">
   <a href="mailto:Prabashsandakalum0207@gmail.com">
@@ -71,12 +64,6 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabash0929&label=Visitors&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
 <p align="center">🔥 "Code. Learn. Build. Repeat." 🔥</p>
+
+
