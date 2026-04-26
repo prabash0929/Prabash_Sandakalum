@@ -11,12 +11,14 @@
 
 ---
 
-<h2 align="center">  About Me </h2>
+<h2 align="center"> About Me </h2>
 
-- 🎓 BSc (Hons) Computer Science Undergraduate  
-- 💻 Interested in Web Development & Software Engineering  
-- 🔐 Cybersecurity (Ethical Hacking) Enthusiast  
-- 🌱 Currently learning modern technologies  
+<p align="center">
+  🎓 <b><span style="color:#58A6FF">Computer Science Undergraduate</span></b> <br><br>
+  💻 <span style="color:#3FB950">Web Development & Software Engineering</span> <br><br>
+  🔐 <span style="color:#F2CC60">Cybersecurity Enthusiast</span> <br><br>
+  🌱 <span style="color:#FF7B72">Learning Modern Technologies</span>
+</p>
 
 ---
 
